@@ -1,1 +1,1 @@
-# diff
+My unfinished project, which went from an interesting idea to one crutch when I lost interest and desire to finish it. I'll fill in the "master" when I finish it (which is unlikely to happen anytime soon).
